@@ -14,3 +14,4 @@ Aplicación web que te saluda por pantalla
  ## Sprint 2
 - [ ] mejorar la interfaz gráfica
 - [ ] poner el confetti
+- [ ] ci/cd
