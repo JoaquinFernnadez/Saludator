@@ -1,17 +1,20 @@
 # Saludator
 
 ## Descripción
-Aplicación web que te saluda por pantalla 
+Aplicación web que te saluda por pantalla. Primer ejercicio de segundo de DAM.
+
+## Tecnologías
+html
+
 
 ## Etapas
 
 ## Sprint 1
 - [x] crear la estructura html
-- [ ] aplicar estilos css
-- [ ] dotar con js
-- [ ] deploy
+- [x] aplicar estilos css
+- [x] dotar con js
+- [x] deploy
   
  ## Sprint 2
-- [ ] mejorar la interfaz gráfica
-- [ ] poner el confetti
-- [ ] ci/cd
+- [x] mejorar la interfaz gráfica
+- [x] poner el confetti
